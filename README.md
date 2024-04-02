@@ -1,12 +1,14 @@
 # Custom Question Answering Chatbot using Langchain and Gemini LLM
 
-|   |   |
-|---|---|
-| [Introduction](#introduction) | [Project Overview](#project-overview) |
-| [Tools Used](#tools-used) | [Getting Started](#getting-started) |
-| [Screenshot](#screenshot) | [Use Case](#use-case) |
-| [Future Improvements](#future-improvements) | [Contributors](#contributors) |
-| [License](#license) |  |
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Tools Used](#tools-used)
+- [Getting Started](#getting-started)
+- [Screenshot](#screenshot)
+- [Use Case](#use-case)
+- [Future Improvements](#future-improvements)
+- [Contributors](#contributors)
+- [License](#license)
 
 ## Introduction
 
@@ -38,8 +40,8 @@ The project workflow involves the following steps:
 To run the project locally, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies listed in the \`requirements.txt\` file.
-3. Run the Streamlit application by executing \`streamlit run app.py\` in your terminal.
+2. Install the necessary dependencies listed in the `requirements.txt` file.
+3. Run the Streamlit application by executing `streamlit run app.py` in your terminal.
 
 ## Screenshot
 
