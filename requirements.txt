@@ -7,3 +7,4 @@ InstructorEmbedding
 faiss-cpu
 langchain_community
 streamlit
+python-dotenv
