@@ -1,0 +1,8 @@
+transformers
+langchain
+langchain-core 
+langchain_google_genai
+sentence-transformers==2.2.2
+InstructorEmbedding
+faiss-cpu
+langchain_community
