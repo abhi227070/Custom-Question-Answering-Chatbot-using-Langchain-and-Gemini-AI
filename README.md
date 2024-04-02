@@ -45,7 +45,8 @@ To run the project locally, follow these steps:
 
 ## Screenshot
 
-![Screenshot of Chatbot Interface](screenshot.png)
+![Screenshot1](screenshots/screenshot1.png)
+![Screenshot1](screenshots/screenshot2.png)
 
 ## Use Case
 
