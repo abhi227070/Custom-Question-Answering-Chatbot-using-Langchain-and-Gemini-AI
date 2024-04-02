@@ -64,7 +64,7 @@ The custom question answering chatbot serves various purposes, including:
 
 ## Contributors
 
-- [Your Name](link-to-your-profile)
+- [Abhijit Maharana](https://www.linkedin.com/in/abhijitmaharana/)
 
 ## License
 
