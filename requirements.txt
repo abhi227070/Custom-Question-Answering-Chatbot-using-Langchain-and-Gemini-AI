@@ -6,3 +6,4 @@ sentence-transformers==2.2.2
 InstructorEmbedding
 faiss-cpu
 langchain_community
+streamlit
