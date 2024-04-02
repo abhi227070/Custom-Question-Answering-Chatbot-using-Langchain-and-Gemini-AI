@@ -10,7 +10,7 @@ def get_chain():
     
     llm = get_llm()
     embeddings = get_embedding()
-    vectordb = FAISS.load_local(file,embeddings,allow_dangerous_deserialization=True)
+    vectordb = FAISS.load_local(file,embeddings)
     retriever = vectordb.as_retriever()
     prompt = get_prompt()
     
